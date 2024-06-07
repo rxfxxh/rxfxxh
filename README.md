@@ -7,7 +7,7 @@
 - ⚡ Fun fact: i like to play volleyball
 
 <div>
-  <img style="width: 300px" src="https://cdn.tecmasters.com.br/wp-content/uploads/2022/03/nahel-abdul-hadi-flha0KwRrRc-unsplash.jpg">
+  <img style="width: 300px" src="[https://cdn.tecmasters.com.br/wp-content/uploads/2022/03/nahel-abdul-hadi-flha0KwRrRc-unsplash.jpg](https://github.com/anuraghazra/github-readme-stats)">
 </div>
 <!---
 rxfxxh/rxfxxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
