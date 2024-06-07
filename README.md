@@ -7,7 +7,7 @@
 - ⚡ Fun fact: i like to play volleyball
 
 <div>
-  <img height="100cm" src="https://github.com/anuraghazra/github-readme-stats/api?username=rxfxxh
+  <img height="100cm" src="https://github.com/anuraghazra/github-readme-stats/api?username=rxfxxh"</img>
 </div>
 <!---
 rxfxxh/rxfxxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
