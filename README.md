@@ -6,6 +6,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like to play volleyball
 
+<div>
+  <img height="100cm" src="https://github.com/anuraghazra/github-readme-stats/api?username=rxfxxh
+</div>
 <!---
 rxfxxh/rxfxxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
