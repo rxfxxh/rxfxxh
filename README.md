@@ -8,8 +8,7 @@
 
 <div>
   <a href="https://github.com/rxfxxh>
-    <img href="https://github-readme-stats.vercel.app/api?username=rxfxxh)](https://github.com/anuraghazra/github-readme-stats">
-  <img style="width: 300px" src="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">
+  <img style="width: 300px" src="https://github.com/rxfxxh/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">
 </div>
     
 <div style="display: inline_block"><br>
